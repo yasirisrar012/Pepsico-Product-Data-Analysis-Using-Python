@@ -1,4 +1,4 @@
-# Pepsico-Product-Data-Analysis-Using-Python
+# Pepsico Product Data Analysis Using Python
 PepsiCo, Inc. is a global food and beverage company headquartered in Purchase, New York. Founded in 1965 through the merger of Pepsi-Cola and Frito-Lay, PepsiCo has expanded into a diverse portfolio of products, including snacks, beverages, and nutrition-based items. Its brands include Pepsi, Mountain Dew, Gatorade, Lay's, Quaker, Tropicana, and more. Operating in over 200 countries, PepsiCo is a market leader in the fast-moving consumer goods (FMCG) sector. 
 The dataset is collected from Kaggle in .csv format consists data of 180+ products starting from 1896 and till 2021. The dataset includes the following information such as year of launch, region served, status (active or discontinued), category and its ownership.
 Sample Insights-
